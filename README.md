@@ -1,9 +1,13 @@
+## Practises
+
+[Build a Fully Type-Safe Application with GraphQL, Prisma & React.](https://www.prisma.io/blog/e2e-type-safety-graphql-react-1-I2GxIfxkSZ)
+
 ## Tech stack
 
 - GraphQL Yoga
   GraphQL Server side
 - Prisma
-  ORM tool based on schema defination.
+  ORM tool based on schema defination. which automatically generates types based on your database schema.
 - Pothos schema builder
   A tool to generate GraphQL schema and keep sync with Prisma schema.
 
